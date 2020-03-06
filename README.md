@@ -1,4 +1,4 @@
 # jump
 A Demo of Platform Game With Cocos Creator Engine
 
-Hello World.
+[Play Online](https://nanqunchen.github.io/jump/build/web-desktop/)
