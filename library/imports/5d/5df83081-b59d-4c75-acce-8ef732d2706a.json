@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Player_role_33",
+    "texture": "f1debb07-9a95-47e7-b0f0-30fe9ee5df26",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

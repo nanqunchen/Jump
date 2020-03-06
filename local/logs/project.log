@@ -1,0 +1,623 @@
+2020-03-06T02:45:27.352Z - normal: Load ~/.CocosCreator/settings.json
+2020-03-06T02:45:27.443Z - normal: Initializing Asset Database
+2020-03-06T02:45:27.462Z - normal: checking language setting...
+2020-03-06T02:45:27.462Z - normal: Language: en
+2020-03-06T02:45:28.963Z - success: preview server running at http://localhost:7456
+2020-03-06T02:45:28.976Z - success: protocol editor-framework registered
+2020-03-06T02:45:28.976Z - success: protocol app registered
+2020-03-06T02:45:28.976Z - success: protocol theme registered
+2020-03-06T02:45:28.976Z - success: protocol packages registered
+2020-03-06T02:45:28.976Z - success: protocol uuid registerred
+2020-03-06T02:45:28.976Z - success: protocol db registerred
+2020-03-06T02:45:28.977Z - success: protocol thumbnail registerred
+2020-03-06T02:45:28.977Z - success: protocol unpack registerred
+2020-03-06T02:45:28.977Z - success: protocol disable-commonjs registerred
+2020-03-06T02:45:29.085Z - normal: connected!
+2020-03-06T02:45:29.086Z - normal: Check project /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl
+2020-03-06T02:45:29.087Z - normal: Initializing project /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl
+2020-03-06T02:45:29.154Z - success: adapters loaded
+2020-03-06T02:45:29.158Z - success: asset-db-debugger loaded
+2020-03-06T02:45:29.332Z - success: fb-audience-network loaded
+2020-03-06T02:45:29.385Z - success: fb-live-stream loaded
+2020-03-06T02:45:29.388Z - success: google-play-instant loaded
+2020-03-06T02:45:29.426Z - success: huawei-runtime loaded
+2020-03-06T02:45:29.428Z - success: jkw-adapter loaded
+2020-03-06T02:45:29.429Z - success: jsb-adapter loaded
+2020-03-06T02:45:29.439Z - success: oppo-runtime loaded
+2020-03-06T02:45:29.443Z - success: package-manager loaded
+2020-03-06T02:45:29.444Z - success: qtt-adapter loaded
+2020-03-06T02:45:29.449Z - success: runtime-dev-tools loaded
+2020-03-06T02:45:29.455Z - success: sdkbox loaded
+2020-03-06T02:45:29.459Z - success: ui-kit-preview-extra loaded
+2020-03-06T02:45:29.463Z - success: ui-kit-preview loaded
+2020-03-06T02:45:29.478Z - success: vivo-runtime loaded
+2020-03-06T02:45:29.493Z - success: alipay-minigame loaded
+2020-03-06T02:45:29.565Z - success: assets loaded
+2020-03-06T02:45:29.569Z - success: baidugame-opendata loaded
+2020-03-06T02:45:29.572Z - success: baidugame loaded
+2020-03-06T02:45:29.577Z - success: builder loaded
+2020-03-06T02:45:30.257Z - success: cocos-services loaded
+2020-03-06T02:45:30.285Z - success: console loaded
+2020-03-06T02:45:30.297Z - success: fb-instant-games loaded
+2020-03-06T02:45:30.302Z - success: game-window loaded
+2020-03-06T02:45:30.303Z - success: google-instant-games loaded
+2020-03-06T02:45:30.308Z - success: hierarchy loaded
+2020-03-06T02:45:30.312Z - success: inspector loaded
+2020-03-06T02:45:31.194Z - success: cpk-publish loaded
+2020-03-06T02:45:31.198Z - success: keystore loaded
+2020-03-06T02:45:31.217Z - success: node-library loaded
+2020-03-06T02:45:31.231Z - success: open-recent-items loaded
+2020-03-06T02:45:31.234Z - success: package-asset loaded
+2020-03-06T02:45:31.235Z - success: preferences loaded
+2020-03-06T02:45:31.239Z - success: project-exporter loaded
+2020-03-06T02:45:31.245Z - success: project-importer loaded
+2020-03-06T02:45:31.249Z - success: project-settings loaded
+2020-03-06T02:45:31.263Z - success: qtt-runtime loaded
+2020-03-06T02:45:31.269Z - success: scene loaded
+2020-03-06T02:45:31.270Z - success: simulator-debugger loaded
+2020-03-06T02:45:31.272Z - success: sprite-editor loaded
+2020-03-06T02:45:31.276Z - success: store loaded
+2020-03-06T02:45:31.281Z - success: timeline loaded
+2020-03-06T02:45:31.285Z - success: wechatgame-opendata loaded
+2020-03-06T02:45:31.319Z - success: wechatgame loaded
+2020-03-06T02:45:31.324Z - success: xiaomi-runtime loaded
+2020-03-06T02:45:32.386Z - info: Cocos Service load base data!
+2020-03-06T02:45:32.888Z - normal: Initializing Cocos2d
+2020-03-06T02:45:33.628Z - normal: Initializing engine extends
+2020-03-06T02:45:34.690Z - normal: Loading packages
+2020-03-06T02:45:34.696Z - normal: Watching packages
+2020-03-06T02:45:34.784Z - normal: Run Application
+2020-03-06T02:51:18.555Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Ani/boxRun.anim.meta
+2020-03-06T02:51:18.566Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Ani/coin.anim.meta
+2020-03-06T02:51:18.572Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Ani/dark.anim.meta
+2020-03-06T02:51:18.578Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Script/Canvas.ts.meta
+2020-03-06T02:51:18.585Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Script/Shop.ts.meta
+2020-03-06T02:51:18.593Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Texture/桌面端 HD备份.png.meta
+2020-03-06T02:51:18.619Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Texture/background concept.png.meta
+2020-03-06T02:51:18.633Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Texture/bg.png.meta
+2020-03-06T02:51:18.641Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Texture/coin.meta
+2020-03-06T02:51:18.657Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Texture/dark.meta
+2020-03-06T02:51:18.681Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Texture/ground.png.meta
+2020-03-06T02:51:18.689Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Texture/Logo.png.meta
+2020-03-06T02:51:18.697Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Texture/Mustached Box Head Man.meta
+2020-03-06T02:51:19.816Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
+Node path: "Canvas/BG/bg copy"
+Missing uuid: "6744a42d-c19d-4730-b95c-dd9b24f913c2"
+
+2020-03-06T02:51:19.816Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
+Node path: "Canvas/BG/bg copy"
+Missing uuid: "6744a42d-c19d-4730-b95c-dd9b24f913c2"
+
+2020-03-06T02:51:19.816Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
+Node path: "Canvas/BG/bg copy"
+Missing uuid: "6744a42d-c19d-4730-b95c-dd9b24f913c2"
+
+2020-03-06T02:51:19.816Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
+Node path: "Canvas/BG/bg"
+Missing uuid: "6744a42d-c19d-4730-b95c-dd9b24f913c2"
+
+2020-03-06T02:51:19.816Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
+Node path: "Canvas/BG/bg copy"
+Missing uuid: "6744a42d-c19d-4730-b95c-dd9b24f913c2"
+
+2020-03-06T03:07:19.862Z - warn: The Asset used by component "cc.Sprite" in scene "game.fire" is missing. Detailed information:
+Node path: "Canvas/BG/bg copy"
+Asset url: "db://assets/Scene/game.fire"
+Missing uuid: "6744a42d-c19d-4730-b95c-dd9b24f913c2"
+
+2020-03-06T03:07:19.875Z - warn: The Asset used by component "cc.Sprite" in scene "game.fire" is missing. Detailed information:
+Node path: "Canvas/BG/bg copy"
+Asset url: "db://assets/Scene/game.fire"
+Missing uuid: "6744a42d-c19d-4730-b95c-dd9b24f913c2"
+
+2020-03-06T03:07:19.875Z - warn: The Asset used by component "cc.Sprite" in scene "game.fire" is missing. Detailed information:
+Node path: "Canvas/BG/bg copy"
+Asset url: "db://assets/Scene/game.fire"
+Missing uuid: "6744a42d-c19d-4730-b95c-dd9b24f913c2"
+
+2020-03-06T03:07:19.876Z - warn: The Asset used by component "cc.Sprite" in scene "game.fire" is missing. Detailed information:
+Node path: "Canvas/BG/bg"
+Asset url: "db://assets/Scene/game.fire"
+Missing uuid: "6744a42d-c19d-4730-b95c-dd9b24f913c2"
+
+2020-03-06T03:07:19.876Z - warn: The Asset used by component "cc.Sprite" in scene "game.fire" is missing. Detailed information:
+Node path: "Canvas/BG/bg copy"
+Asset url: "db://assets/Scene/game.fire"
+Missing uuid: "6744a42d-c19d-4730-b95c-dd9b24f913c2"
+
+2020-03-06T03:07:24.690Z - normal: Start building with options : {
+  "actualPlatform": "ios",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build",
+  "debug": false,
+  "dest": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "b1b51ce2-c8d1-48ad-8ccf-dea4ef98ed93",
+    "91c2d502-7a54-4692-9a44-95fda0914720",
+    "70cb0e1d-ab46-47e2-b498-9c1c50a2841a"
+  ],
+  "sourceMaps": false,
+  "startScene": "b1b51ce2-c8d1-48ad-8ccf-dea4ef98ed93",
+  "template": "link",
+  "title": "JumpGirl",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "f00faf42-592d-4d",
+  "zipCompressJs": true,
+  "project": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl",
+  "projectName": "JumpGirl",
+  "debugBuildWorker": false
+}
+2020-03-06T03:07:24.691Z - normal: Building /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl
+2020-03-06T03:07:24.691Z - normal: Destination /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link
+2020-03-06T03:07:24.959Z - normal: Delete /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link/subpackages/**/*,/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link/res/**/*,/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link/src/**/*
+2020-03-06T03:07:25.031Z - normal: Checked Python Version [2.7.16]
+2020-03-06T03:07:30.610Z - normal: Start building assets
+2020-03-06T03:07:30.610Z - normal: Start spawn build-worker
+2020-03-06T03:07:31.243Z - normal: Finish spawn build-worker
+2020-03-06T03:07:31.243Z - normal: Start init build-worker
+2020-03-06T03:07:33.900Z - normal: Finish init build-worker
+2020-03-06T03:07:33.900Z - normal: Start build-assets in worker
+2020-03-06T03:07:34.041Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
+2020-03-06T03:07:34.118Z - warn: The referenced asset used in "db://assets/Scene/game.fire" is not found, it may have been deleted. Detailed information:
+Node path: "Canvas/BG/bg copy"
+Used in Component: "cc.Sprite"
+uuid: "6744a42d-c19d-4730-b95c-dd9b24f913c2"
+2020-03-06T03:07:34.286Z - normal: Finish build-assets in worker
+2020-03-06T03:07:34.288Z - normal: Finish building assets
+2020-03-06T03:07:34.297Z - normal: Start building plugin scripts
+2020-03-06T03:07:34.332Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-03-06T03:07:34.369Z - normal: Checked Python Version [2.7.16]
+2020-03-06T03:07:35.627Z - normal: Built to "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link" successfully
+2020-03-06T03:07:40.054Z - normal: Checked Python Version [2.7.16]
+2020-03-06T03:07:41.180Z - normal: Start to compile native project. Please wait...
+2020-03-06T03:07:41.180Z - normal: The log file path [ /Users/nanqunchen/.CocosCreator/logs/native.log ]
+2020-03-06T03:08:00.687Z - normal: Compile native project successfully.
+2020-03-06T04:14:26.627Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Script/Launch.ts.meta
+2020-03-06T04:14:26.642Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Script/SceneManager.ts.meta
+2020-03-06T04:14:46.013Z - normal: Start building with options : {
+  "actualPlatform": "ios",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build",
+  "debug": false,
+  "dest": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "91c2d502-7a54-4692-9a44-95fda0914720"
+  ],
+  "sourceMaps": false,
+  "startScene": "91c2d502-7a54-4692-9a44-95fda0914720",
+  "template": "link",
+  "title": "JumpGirl",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "f00faf42-592d-4d",
+  "zipCompressJs": true,
+  "project": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl",
+  "projectName": "JumpGirl",
+  "debugBuildWorker": false
+}
+2020-03-06T04:14:46.013Z - normal: Building /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl
+2020-03-06T04:14:46.014Z - normal: Destination /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link
+2020-03-06T04:14:46.014Z - normal: Delete /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link/subpackages/**/*,/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link/res/**/*,/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link/src/**/*
+2020-03-06T04:14:46.062Z - normal: Checked Python Version [2.7.16]
+2020-03-06T04:14:51.807Z - normal: Start building assets
+2020-03-06T04:14:51.807Z - normal: Start spawn build-worker
+2020-03-06T04:14:52.540Z - normal: Finish spawn build-worker
+2020-03-06T04:14:52.540Z - normal: Start init build-worker
+2020-03-06T04:14:55.565Z - normal: Finish init build-worker
+2020-03-06T04:14:55.565Z - normal: Start build-assets in worker
+2020-03-06T04:14:55.980Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
+2020-03-06T04:14:56.313Z - normal: Finish build-assets in worker
+2020-03-06T04:14:56.316Z - normal: Finish building assets
+2020-03-06T04:14:56.323Z - normal: Start building plugin scripts
+2020-03-06T04:14:56.363Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-03-06T04:14:56.409Z - normal: Checked Python Version [2.7.16]
+2020-03-06T04:14:57.656Z - normal: Built to "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link" successfully
+2020-03-06T04:29:03.539Z - normal: Start building with options : {
+  "actualPlatform": "ios",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build",
+  "debug": false,
+  "dest": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "91c2d502-7a54-4692-9a44-95fda0914720"
+  ],
+  "sourceMaps": false,
+  "startScene": "91c2d502-7a54-4692-9a44-95fda0914720",
+  "template": "link",
+  "title": "JumpGirl",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "f00faf42-592d-4d",
+  "zipCompressJs": true,
+  "project": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl",
+  "projectName": "JumpGirl",
+  "debugBuildWorker": false
+}
+2020-03-06T04:29:03.548Z - normal: Building /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl
+2020-03-06T04:29:03.548Z - normal: Destination /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link
+2020-03-06T04:29:03.548Z - normal: Delete /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link/subpackages/**/*,/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link/res/**/*,/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link/src/**/*
+2020-03-06T04:29:03.587Z - normal: Checked Python Version [2.7.16]
+2020-03-06T04:29:09.113Z - normal: Start building assets
+2020-03-06T04:29:09.114Z - normal: Start spawn build-worker
+2020-03-06T04:29:09.803Z - normal: Finish spawn build-worker
+2020-03-06T04:29:09.803Z - normal: Start init build-worker
+2020-03-06T04:29:12.703Z - normal: Finish init build-worker
+2020-03-06T04:29:12.703Z - normal: Start build-assets in worker
+2020-03-06T04:29:13.064Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
+2020-03-06T04:29:13.357Z - normal: Finish build-assets in worker
+2020-03-06T04:29:13.361Z - normal: Finish building assets
+2020-03-06T04:29:13.369Z - normal: Start building plugin scripts
+2020-03-06T04:29:13.413Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-03-06T04:29:13.493Z - normal: Checked Python Version [2.7.16]
+2020-03-06T04:29:14.793Z - normal: Built to "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/jsb-link" successfully
+2020-03-06T04:29:29.960Z - normal: Checked Python Version [2.7.16]
+2020-03-06T04:29:31.087Z - normal: Start to compile native project. Please wait...
+2020-03-06T04:29:31.087Z - normal: The log file path [ /Users/nanqunchen/.CocosCreator/logs/native.log ]
+2020-03-06T04:29:49.262Z - normal: Compile native project successfully.
+2020-03-06T11:55:53.769Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build",
+  "debug": false,
+  "dest": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "91c2d502-7a54-4692-9a44-95fda0914720"
+  ],
+  "sourceMaps": false,
+  "startScene": "91c2d502-7a54-4692-9a44-95fda0914720",
+  "template": "link",
+  "title": "JumpGirl",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "f00faf42-592d-4d",
+  "zipCompressJs": true,
+  "project": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl",
+  "projectName": "JumpGirl",
+  "debugBuildWorker": false
+}
+2020-03-06T11:55:53.790Z - normal: Building /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl
+2020-03-06T11:55:53.790Z - normal: Destination /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-mobile
+2020-03-06T11:55:53.791Z - normal: Delete /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-mobile/subpackages/**/*,/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-mobile/**/*
+2020-03-06T11:55:56.735Z - normal: Start building assets
+2020-03-06T11:55:56.735Z - normal: Start spawn build-worker
+2020-03-06T11:55:57.355Z - normal: Finish spawn build-worker
+2020-03-06T11:55:57.356Z - normal: Start init build-worker
+2020-03-06T11:56:00.205Z - normal: Finish init build-worker
+2020-03-06T11:56:00.205Z - normal: Start build-assets in worker
+2020-03-06T11:56:00.997Z - normal: Finish build-assets in worker
+2020-03-06T11:56:00.999Z - normal: Finish building assets
+2020-03-06T11:56:01.008Z - normal: Start building plugin scripts
+2020-03-06T11:56:01.056Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-03-06T11:56:01.060Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2020-03-06T11:56:01.082Z - normal: Built to "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-mobile" successfully
+2020-03-06T11:56:14.659Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build",
+  "debug": false,
+  "dest": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "91c2d502-7a54-4692-9a44-95fda0914720"
+  ],
+  "sourceMaps": false,
+  "startScene": "91c2d502-7a54-4692-9a44-95fda0914720",
+  "template": "link",
+  "title": "JumpGirl",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "f00faf42-592d-4d",
+  "zipCompressJs": true,
+  "project": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl",
+  "projectName": "JumpGirl",
+  "debugBuildWorker": false
+}
+2020-03-06T11:56:14.659Z - normal: Building /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl
+2020-03-06T11:56:14.659Z - normal: Destination /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-desktop
+2020-03-06T11:56:14.659Z - normal: Delete /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-desktop/subpackages/**/*,/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-desktop/**/*
+2020-03-06T11:56:52.001Z - normal: Start building assets
+2020-03-06T11:56:52.013Z - normal: Start spawn build-worker
+2020-03-06T11:56:52.649Z - normal: Finish spawn build-worker
+2020-03-06T11:56:52.649Z - normal: Start init build-worker
+2020-03-06T11:56:55.572Z - normal: Finish init build-worker
+2020-03-06T11:56:55.573Z - normal: Start build-assets in worker
+2020-03-06T11:56:56.348Z - normal: Finish build-assets in worker
+2020-03-06T11:56:56.350Z - normal: Finish building assets
+2020-03-06T11:56:56.363Z - normal: Start building plugin scripts
+2020-03-06T11:56:56.404Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-03-06T11:56:56.408Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2020-03-06T11:56:56.428Z - normal: Built to "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-desktop" successfully
+2020-03-06T11:57:49.045Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build",
+  "debug": false,
+  "dest": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "91c2d502-7a54-4692-9a44-95fda0914720"
+  ],
+  "sourceMaps": false,
+  "startScene": "91c2d502-7a54-4692-9a44-95fda0914720",
+  "template": "link",
+  "title": "Jump",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "f00faf42-592d-4d",
+  "zipCompressJs": true,
+  "project": "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl",
+  "projectName": "Jump",
+  "debugBuildWorker": false
+}
+2020-03-06T11:57:49.046Z - normal: Building /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl
+2020-03-06T11:57:49.046Z - normal: Destination /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-desktop
+2020-03-06T11:57:49.046Z - normal: Delete /Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-desktop/subpackages/**/*,/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-desktop/**/*
+2020-03-06T11:57:51.116Z - normal: Start building assets
+2020-03-06T11:57:51.116Z - normal: Start spawn build-worker
+2020-03-06T11:57:51.748Z - normal: Finish spawn build-worker
+2020-03-06T11:57:51.748Z - normal: Start init build-worker
+2020-03-06T11:57:53.441Z - normal: Finish init build-worker
+2020-03-06T11:57:53.441Z - normal: Start build-assets in worker
+2020-03-06T11:57:53.774Z - normal: Finish build-assets in worker
+2020-03-06T11:57:53.776Z - normal: Finish building assets
+2020-03-06T11:57:53.785Z - normal: Start building plugin scripts
+2020-03-06T11:57:53.824Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-03-06T11:57:53.826Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2020-03-06T11:57:53.841Z - normal: Built to "/Users/nanqunchen/Documents/Workspace/cocos/JumpGirl/build/web-desktop" successfully

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LogoSign",
+    "texture": "06165459-743e-4127-9dc3-dbc58619ce62",
+    "atlas": "",
+    "rect": [
+      70,
+      84,
+      343,
+      134
+    ],
+    "offset": [
+      10.5,
+      -13
+    ],
+    "originalSize": [
+      462,
+      276
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

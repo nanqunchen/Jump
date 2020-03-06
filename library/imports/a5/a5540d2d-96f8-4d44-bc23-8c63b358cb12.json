@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Player_role_07的副本",
+    "texture": "1103bba9-96a6-45d0-b725-b05cc59fa561",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
