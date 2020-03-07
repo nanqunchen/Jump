@@ -2,6 +2,6 @@
   "engine_version": "2.2.2-release",
   "has_native": true,
   "project_type": "js",
-  "projectName": "JumpGirl",
-  "packageName": "com.fireball.JumpGirl"
+  "projectName": "Jump",
+  "packageName": "com.fireball.Jump"
 }
