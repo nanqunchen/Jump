@@ -1,346 +1,84 @@
-2020-03-06T15:21:29.476Z - normal: Load ~/.CocosCreator/settings.json
-2020-03-06T15:21:29.556Z - normal: Initializing Asset Database
-2020-03-06T15:21:29.562Z - normal: checking language setting...
-2020-03-06T15:21:29.562Z - normal: Language: en
-2020-03-06T15:21:30.463Z - success: preview server running at http://localhost:7456
-2020-03-06T15:21:30.476Z - success: protocol editor-framework registered
-2020-03-06T15:21:30.476Z - success: protocol app registered
-2020-03-06T15:21:30.476Z - success: protocol theme registered
-2020-03-06T15:21:30.477Z - success: protocol packages registered
-2020-03-06T15:21:30.477Z - success: protocol uuid registerred
-2020-03-06T15:21:30.477Z - success: protocol db registerred
-2020-03-06T15:21:30.477Z - success: protocol thumbnail registerred
-2020-03-06T15:21:30.477Z - success: protocol unpack registerred
-2020-03-06T15:21:30.477Z - success: protocol disable-commonjs registerred
-2020-03-06T15:21:30.577Z - normal: connected!
-2020-03-06T15:21:30.578Z - normal: Check project /Users/nanqunchen/Documents/Workspace/cocos/Jump
-2020-03-06T15:21:30.579Z - normal: Initializing project /Users/nanqunchen/Documents/Workspace/cocos/Jump
-2020-03-06T15:21:30.600Z - success: adapters loaded
-2020-03-06T15:21:30.605Z - success: asset-db-debugger loaded
-2020-03-06T15:21:30.813Z - success: fb-audience-network loaded
-2020-03-06T15:21:30.844Z - success: fb-live-stream loaded
-2020-03-06T15:21:30.847Z - success: google-play-instant loaded
-2020-03-06T15:21:30.860Z - success: huawei-runtime loaded
-2020-03-06T15:21:30.861Z - success: jkw-adapter loaded
-2020-03-06T15:21:30.863Z - success: jsb-adapter loaded
-2020-03-06T15:21:30.871Z - success: oppo-runtime loaded
-2020-03-06T15:21:30.876Z - success: package-manager loaded
-2020-03-06T15:21:30.877Z - success: qtt-adapter loaded
-2020-03-06T15:21:30.882Z - success: runtime-dev-tools loaded
-2020-03-06T15:21:30.892Z - success: sdkbox loaded
-2020-03-06T15:21:30.896Z - success: ui-kit-preview-extra loaded
-2020-03-06T15:21:30.899Z - success: ui-kit-preview loaded
-2020-03-06T15:21:30.904Z - success: vivo-runtime loaded
-2020-03-06T15:21:30.910Z - success: alipay-minigame loaded
-2020-03-06T15:21:30.962Z - success: assets loaded
-2020-03-06T15:21:30.965Z - success: baidugame-opendata loaded
-2020-03-06T15:21:30.967Z - success: baidugame loaded
-2020-03-06T15:21:30.971Z - success: builder loaded
-2020-03-06T15:21:31.176Z - success: cocos-services loaded
-2020-03-06T15:21:31.180Z - success: console loaded
-2020-03-06T15:21:31.189Z - success: fb-instant-games loaded
-2020-03-06T15:21:31.192Z - success: game-window loaded
-2020-03-06T15:21:31.194Z - success: google-instant-games loaded
-2020-03-06T15:21:31.198Z - success: hierarchy loaded
-2020-03-06T15:21:31.202Z - success: inspector loaded
-2020-03-06T15:21:31.648Z - success: cpk-publish loaded
-2020-03-06T15:21:31.651Z - success: keystore loaded
-2020-03-06T15:21:31.678Z - success: node-library loaded
-2020-03-06T15:21:31.679Z - success: open-recent-items loaded
-2020-03-06T15:21:31.680Z - success: package-asset loaded
-2020-03-06T15:21:31.682Z - success: preferences loaded
-2020-03-06T15:21:31.685Z - success: project-exporter loaded
-2020-03-06T15:21:31.688Z - success: project-importer loaded
-2020-03-06T15:21:31.691Z - success: project-settings loaded
-2020-03-06T15:21:31.702Z - success: qtt-runtime loaded
-2020-03-06T15:21:31.706Z - success: scene loaded
-2020-03-06T15:21:31.707Z - success: simulator-debugger loaded
-2020-03-06T15:21:31.708Z - success: sprite-editor loaded
-2020-03-06T15:21:31.712Z - success: store loaded
-2020-03-06T15:21:31.716Z - success: timeline loaded
-2020-03-06T15:21:31.719Z - success: wechatgame-opendata loaded
-2020-03-06T15:21:31.722Z - success: wechatgame loaded
-2020-03-06T15:21:31.725Z - success: xiaomi-runtime loaded
-2020-03-06T15:21:32.656Z - info: Cocos Service load base data!
-2020-03-06T15:21:32.871Z - normal: Initializing Cocos2d
-2020-03-06T15:21:33.479Z - normal: Initializing engine extends
-2020-03-06T15:21:33.965Z - warn: [db-task][init] Backup unused meta file: db://assets/resources.meta
-2020-03-06T15:21:34.875Z - normal: Loading packages
-2020-03-06T15:21:34.880Z - normal: Watching packages
-2020-03-06T15:21:34.968Z - normal: Run Application
-2020-03-06T15:21:47.830Z - normal: Start building with options : {
-  "actualPlatform": "ios",
-  "android": {
-    "packageName": ""
-  },
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "packageName": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "buildPath": "/Users/nanqunchen/Documents/Workspace/cocos/Jump/build",
-  "debug": false,
-  "dest": "/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "ios": {
-    "packageName": ""
-  },
-  "mac": {
-    "packageName": ""
-  },
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "",
-  "platform": "ios",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "scenes": [
-    "91c2d502-7a54-4692-9a44-95fda0914720"
-  ],
-  "sourceMaps": false,
-  "startScene": "91c2d502-7a54-4692-9a44-95fda0914720",
-  "template": "link",
-  "title": "Jump",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "win32": {},
-  "xxteaKey": "f00faf42-592d-4d",
-  "zipCompressJs": true,
-  "project": "/Users/nanqunchen/Documents/Workspace/cocos/Jump",
-  "projectName": "Jump",
-  "debugBuildWorker": false
-}
-2020-03-06T15:21:47.831Z - normal: Building /Users/nanqunchen/Documents/Workspace/cocos/Jump
-2020-03-06T15:21:47.831Z - normal: Destination /Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link
-2020-03-06T15:21:47.960Z - normal: Delete /Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link/subpackages/**/*,/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link/res/**/*,/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link/src/**/*
-2020-03-06T15:21:48.000Z - normal: Checked Python Version [2.7.16]
-2020-03-06T15:21:49.218Z - error: Can't not find file [/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link/frameworks/runtime-src/proj.ios_mac/JumpGirl.xcodeproj/project.pbxproj], replace project name failed
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:8925
-    at Array.forEach (<anonymous>)
-    at Y (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:8835)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:16926
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:4670
+2020-03-08T15:11:53.388Z - normal: Load ~/.CocosCreator/settings.json
+2020-03-08T15:11:53.422Z - normal: Initializing Asset Database
+2020-03-08T15:11:53.423Z - normal: checking language setting...
+2020-03-08T15:11:53.423Z - normal: Language: en
+2020-03-08T15:11:53.725Z - success: preview server running at http://localhost:7456
+2020-03-08T15:11:53.737Z - success: protocol editor-framework registered
+2020-03-08T15:11:53.737Z - success: protocol app registered
+2020-03-08T15:11:53.737Z - success: protocol theme registered
+2020-03-08T15:11:53.737Z - success: protocol packages registered
+2020-03-08T15:11:53.737Z - success: protocol uuid registerred
+2020-03-08T15:11:53.737Z - success: protocol db registerred
+2020-03-08T15:11:53.738Z - success: protocol thumbnail registerred
+2020-03-08T15:11:53.738Z - success: protocol unpack registerred
+2020-03-08T15:11:53.738Z - success: protocol disable-commonjs registerred
+2020-03-08T15:11:56.726Z - normal: failed to connect login server due to request timeout
+2020-03-08T15:11:56.726Z - normal: Check project /Users/nanqunchen/Documents/Workspace/cocos/Jump
+2020-03-08T15:11:56.727Z - normal: Initializing project /Users/nanqunchen/Documents/Workspace/cocos/Jump
+2020-03-08T15:11:56.747Z - success: adapters loaded
+2020-03-08T15:11:56.751Z - success: asset-db-debugger loaded
+2020-03-08T15:11:56.800Z - success: fb-audience-network loaded
+2020-03-08T15:11:56.817Z - success: fb-live-stream loaded
+2020-03-08T15:11:56.819Z - success: google-play-instant loaded
+2020-03-08T15:11:56.822Z - success: huawei-runtime loaded
+2020-03-08T15:11:56.823Z - success: jkw-adapter loaded
+2020-03-08T15:11:56.824Z - success: jsb-adapter loaded
+2020-03-08T15:11:56.826Z - success: oppo-runtime loaded
+2020-03-08T15:11:56.829Z - success: package-manager loaded
+2020-03-08T15:11:56.830Z - success: qtt-adapter loaded
+2020-03-08T15:11:56.831Z - success: runtime-dev-tools loaded
+2020-03-08T15:11:56.836Z - success: sdkbox loaded
+2020-03-08T15:11:56.839Z - success: ui-kit-preview-extra loaded
+2020-03-08T15:11:56.842Z - success: ui-kit-preview loaded
+2020-03-08T15:11:56.845Z - success: vivo-runtime loaded
+2020-03-08T15:11:56.847Z - success: alipay-minigame loaded
+2020-03-08T15:11:56.893Z - success: assets loaded
+2020-03-08T15:11:56.895Z - success: baidugame-opendata loaded
+2020-03-08T15:11:56.897Z - success: baidugame loaded
+2020-03-08T15:11:56.900Z - success: builder loaded
+2020-03-08T15:11:57.003Z - success: cocos-services loaded
+2020-03-08T15:11:57.009Z - success: console loaded
+2020-03-08T15:11:57.020Z - success: fb-instant-games loaded
+2020-03-08T15:11:57.028Z - success: game-window loaded
+2020-03-08T15:11:57.029Z - success: google-instant-games loaded
+2020-03-08T15:11:57.032Z - success: hierarchy loaded
+2020-03-08T15:11:57.036Z - success: inspector loaded
+2020-03-08T15:11:57.236Z - success: cpk-publish loaded
+2020-03-08T15:11:57.237Z - success: keystore loaded
+2020-03-08T15:11:57.245Z - success: node-library loaded
+2020-03-08T15:11:57.246Z - success: open-recent-items loaded
+2020-03-08T15:11:57.248Z - success: package-asset loaded
+2020-03-08T15:11:57.249Z - success: preferences loaded
+2020-03-08T15:11:57.252Z - success: project-exporter loaded
+2020-03-08T15:11:57.256Z - success: project-importer loaded
+2020-03-08T15:11:57.259Z - success: project-settings loaded
+2020-03-08T15:11:57.269Z - success: qtt-runtime loaded
+2020-03-08T15:11:57.272Z - success: scene loaded
+2020-03-08T15:11:57.273Z - success: simulator-debugger loaded
+2020-03-08T15:11:57.274Z - success: sprite-editor loaded
+2020-03-08T15:11:57.278Z - success: store loaded
+2020-03-08T15:11:57.281Z - success: timeline loaded
+2020-03-08T15:11:57.285Z - success: wechatgame-opendata loaded
+2020-03-08T15:11:57.288Z - success: wechatgame loaded
+2020-03-08T15:11:57.291Z - success: xiaomi-runtime loaded
+2020-03-08T15:11:58.332Z - normal: Initializing Cocos2d
+2020-03-08T15:11:58.582Z - normal: Initializing engine extends
+2020-03-08T15:12:00.397Z - error: Error: ENOENT: no such file or directory, open '/Applications/CocosCreator.app/Contents/Resources/static/default-assets/prefab/sprite.prefab'
+    at Object.openSync (fs.js:453:3)
+    at Object.func [as openSync] (electron/js2c/asar.js:172:31)
+    at Object.readFileSync (fs.js:353:35)
+    at Object.fs.readFileSync (electron/js2c/asar.js:618:40)
+    at Object.readFileSync (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/fire-fs/node_modules/jsonfile/index.js:66:20)
+    at Object.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/share/assets/meta/gltf.js:1:307)
+    at Module._compile (internal/modules/cjs/loader.js:839:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:851:10)
+    at Module.load (internal/modules/cjs/loader.js:701:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:633:12)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/index.js:1:5084
     at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:726:13
     at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:52:16
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:269:32
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:264:21
     at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
-2020-03-06T15:21:49.220Z - error: Can't not find file [/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link/frameworks/runtime-src/proj.ios_mac/JumpGirl.xcodeproj], replace project name failed
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:9202
-    at Array.forEach (<anonymous>)
-    at Y (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:9112)
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:16926
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:4670
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:726:13
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:52:16
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:269:32
-    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
-2020-03-06T15:21:51.765Z - normal: Start building assets
-2020-03-06T15:21:51.766Z - normal: Start spawn build-worker
-2020-03-06T15:21:52.373Z - normal: Finish spawn build-worker
-2020-03-06T15:21:52.373Z - normal: Start init build-worker
-2020-03-06T15:21:53.943Z - normal: Finish init build-worker
-2020-03-06T15:21:53.943Z - normal: Start build-assets in worker
-2020-03-06T15:21:54.010Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
-2020-03-06T15:21:54.210Z - normal: Finish build-assets in worker
-2020-03-06T15:21:54.212Z - normal: Finish building assets
-2020-03-06T15:21:54.221Z - normal: Start building plugin scripts
-2020-03-06T15:21:54.263Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2020-03-06T15:21:54.292Z - normal: Checked Python Version [2.7.16]
-2020-03-06T15:21:55.525Z - normal: Built to "/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link" successfully
-2020-03-06T15:22:54.863Z - normal: Checked Python Version [2.7.16]
-2020-03-06T15:22:55.990Z - normal: Start to compile native project. Please wait...
-2020-03-06T15:22:55.990Z - normal: The log file path [ /Users/nanqunchen/.CocosCreator/logs/native.log ]
-2020-03-06T15:23:59.966Z - failed: Error: Compile failed. The log file path [ /Users/nanqunchen/.CocosCreator/logs/native.log ]
-    at ChildProcess.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:18784)
-    at ChildProcess.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:6424)
-    at ChildProcess.emit (events.js:194:13)
-    at ChildProcess.EventEmitter.emit (domain.js:469:20)
-    at maybeClose (internal/child_process.js:998:16)
-    at Process.ChildProcess._handle.onexit (internal/child_process.js:265:5)
-2020-03-07T03:01:20.681Z - normal: Start building with options : {
-  "actualPlatform": "ios",
-  "android": {
-    "packageName": ""
-  },
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "packageName": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "buildPath": "/Users/nanqunchen/Documents/Workspace/cocos/Jump/build",
-  "debug": false,
-  "dest": "/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "ios": {
-    "packageName": ""
-  },
-  "mac": {
-    "packageName": ""
-  },
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "",
-  "platform": "ios",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "scenes": [
-    "91c2d502-7a54-4692-9a44-95fda0914720"
-  ],
-  "sourceMaps": false,
-  "startScene": "91c2d502-7a54-4692-9a44-95fda0914720",
-  "template": "link",
-  "title": "Jump",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "win32": {},
-  "xxteaKey": "f00faf42-592d-4d",
-  "zipCompressJs": true,
-  "project": "/Users/nanqunchen/Documents/Workspace/cocos/Jump",
-  "projectName": "Jump",
-  "debugBuildWorker": false
-}
-2020-03-07T03:01:20.690Z - normal: Building /Users/nanqunchen/Documents/Workspace/cocos/Jump
-2020-03-07T03:01:20.690Z - normal: Destination /Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link
-2020-03-07T03:01:20.690Z - normal: Delete /Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link/subpackages/**/*,/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link/res/**/*,/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link/src/**/*
-2020-03-07T03:01:20.712Z - normal: Checked Python Version [2.7.16]
-2020-03-07T03:01:22.026Z - normal: Creating native cocos project to  /Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link
-2020-03-07T03:01:26.563Z - normal: Start building assets
-2020-03-07T03:01:26.563Z - normal: Start spawn build-worker
-2020-03-07T03:01:27.193Z - normal: Finish spawn build-worker
-2020-03-07T03:01:27.193Z - normal: Start init build-worker
-2020-03-07T03:01:30.243Z - normal: Finish init build-worker
-2020-03-07T03:01:30.244Z - normal: Start build-assets in worker
-2020-03-07T03:01:30.580Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
-2020-03-07T03:01:30.866Z - normal: Finish build-assets in worker
-2020-03-07T03:01:30.869Z - normal: Finish building assets
-2020-03-07T03:01:30.877Z - normal: Start building plugin scripts
-2020-03-07T03:01:30.922Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2020-03-07T03:01:30.963Z - normal: Checked Python Version [2.7.16]
-2020-03-07T03:01:32.209Z - normal: Built to "/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/jsb-link" successfully
-2020-03-07T03:01:38.043Z - normal: Checked Python Version [2.7.16]
-2020-03-07T03:01:39.189Z - normal: Start to compile native project. Please wait...
-2020-03-07T03:01:39.189Z - normal: The log file path [ /Users/nanqunchen/.CocosCreator/logs/native.log ]
-2020-03-07T03:03:00.743Z - normal: Compile native project successfully.
-2020-03-07T03:08:08.816Z - normal: Start building with options : {
-  "actualPlatform": "web-desktop",
-  "android": {
-    "packageName": ""
-  },
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "packageName": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "buildPath": "/Users/nanqunchen/Documents/Workspace/cocos/Jump/build",
-  "debug": false,
-  "dest": "/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/web-desktop",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "ios": {
-    "packageName": ""
-  },
-  "mac": {
-    "packageName": ""
-  },
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "",
-  "platform": "web-desktop",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "scenes": [
-    "91c2d502-7a54-4692-9a44-95fda0914720"
-  ],
-  "sourceMaps": false,
-  "startScene": "91c2d502-7a54-4692-9a44-95fda0914720",
-  "template": "link",
-  "title": "Jump",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "win32": {},
-  "xxteaKey": "f00faf42-592d-4d",
-  "zipCompressJs": true,
-  "project": "/Users/nanqunchen/Documents/Workspace/cocos/Jump",
-  "projectName": "Jump",
-  "debugBuildWorker": false
-}
-2020-03-07T03:08:08.825Z - normal: Building /Users/nanqunchen/Documents/Workspace/cocos/Jump
-2020-03-07T03:08:08.825Z - normal: Destination /Users/nanqunchen/Documents/Workspace/cocos/Jump/build/web-desktop
-2020-03-07T03:08:08.826Z - normal: Delete /Users/nanqunchen/Documents/Workspace/cocos/Jump/build/web-desktop/subpackages/**/*,/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/web-desktop/**/*
-2020-03-07T03:08:12.827Z - normal: Start building assets
-2020-03-07T03:08:12.827Z - normal: Start spawn build-worker
-2020-03-07T03:08:13.910Z - normal: Finish spawn build-worker
-2020-03-07T03:08:13.910Z - normal: Start init build-worker
-2020-03-07T03:08:17.381Z - normal: Finish init build-worker
-2020-03-07T03:08:17.381Z - normal: Start build-assets in worker
-2020-03-07T03:08:18.046Z - normal: Finish build-assets in worker
-2020-03-07T03:08:18.048Z - normal: Finish building assets
-2020-03-07T03:08:18.057Z - normal: Start building plugin scripts
-2020-03-07T03:08:18.110Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2020-03-07T03:08:18.114Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
-2020-03-07T03:08:18.122Z - normal: Built to "/Users/nanqunchen/Documents/Workspace/cocos/Jump/build/web-desktop" successfully
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:723:17
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:167:37
+    at Object.exports.startup (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/index.js:1:1363)
